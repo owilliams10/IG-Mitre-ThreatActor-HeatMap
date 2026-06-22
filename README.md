@@ -80,7 +80,7 @@ We can export the heat map as an SVG or Excel file:
 
 RESOURCES:
 
-Mitigations for Techniques Most Commonly used Amongst the Threat Groups: [MITIGATIONS FOR TTPs THAT SCORED 3 or HIGHER.pdf](https://github.com/user-attachments/files/29150832/MITIGATIONS.FOR.TTPs.THAT.SCORED.3.or.HIGHER.pdf)
+Mitigations for the Techniques Most Commonly used Amongst the Threat Groups: [MITIGATIONS FOR TTPs THAT SCORED 3 or HIGHER.pdf](https://github.com/user-attachments/files/29150832/MITIGATIONS.FOR.TTPs.THAT.SCORED.3.or.HIGHER.pdf)
 
 ## Conclusion
 
